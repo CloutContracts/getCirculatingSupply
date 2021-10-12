@@ -1,7 +1,7 @@
 {
   "name": "circulatingsupplyapi",
   "version": "3.0.0",
-  "description": "",
+  "description": "Circulating Supply API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
