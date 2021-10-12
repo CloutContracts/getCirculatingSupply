@@ -1,12 +1,13 @@
 {
   "name": "circulatingsupplyapi",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "website": "https://cloutcontracts.net",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
