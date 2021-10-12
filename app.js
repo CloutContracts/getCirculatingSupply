@@ -36,4 +36,4 @@ app.get('/getCirculatingSupply', async (req, res) => {
     }
 });
 
-app.listen(port, () => console.log(`Hello app listening on port ${port}!`))
+app.listen(process.env.PORT, '0.0.0.0');
